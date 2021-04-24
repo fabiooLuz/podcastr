@@ -55,6 +55,7 @@ $ yarn dev
 
 *O aplicativo estará disponível para acesso em seu navegador em:* `http://localhost:3000`
 
+
 ## 📝 License
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo  [LICENSE](LICENSE) para obter detalhes.
